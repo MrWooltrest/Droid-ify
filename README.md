@@ -75,7 +75,7 @@ key.alias=key-alias
 key.password=key-password
 ```
 
-### :hammer: Building
+### :bricks: Building
 
 Run `./gradlew assembleRelease` to build a release package or run `./gradlew assembleDebug` if you want to build a debug APK.
 

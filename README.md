@@ -38,7 +38,7 @@ width="60%">](https://hosted.weblate.org/projects/droidify/localization/)
 * :rocket: Fast repository syncing
 * :jigsaw: Standard Android components and minimal dependencies
 
-## :framed_picture: Screenshots
+### :framed_picture: Screenshots
 
 <div align="center">
 

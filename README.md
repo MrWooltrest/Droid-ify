@@ -86,10 +86,9 @@ All of these packages can be installed using the Android package manager.
 [![Translation status](https://hosted.weblate.org/widgets/droidify/-/multi-auto.svg)](https://hosted.weblate.org/engage/droidify/?utm_source=widget)
 
 You can always add other lanuages.
-  
 
 ## :scroll: License
 
 Licensed GPLv3+. \
 Direct Adaptation/Modification of [Foxy-Droid](https://github.com/kitsunyan/foxy-droid/) \
-Copyright © 2020–2021 Iamlooker and contributors.
+Copyright © 2020–2022 [Iamlooker](https://github.com/Iamlooker) and [contributors](https://github.com/Iamlooker/Droid-ify/graphs/contributors).

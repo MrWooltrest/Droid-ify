@@ -33,8 +33,8 @@ width="60%">](https://hosted.weblate.org/projects/droidify/localization/)
 
 ## :book: Features
 
-* :crystal_ball: Material F-Droid style
-*  No cards or inappropriate animations
+* :sparkles: Material F-Droid style
+* :flower_playing_cards: No cards or inappropriate animations
 * :rocket: Fast repository syncing
 * :jigsaw: Standard Android components and minimal dependencies
 
@@ -45,7 +45,7 @@ width="60%">](https://hosted.weblate.org/projects/droidify/localization/)
 | <img src="metadata/en-US/images/phoneScreenshots/home-light.png" width="500" align="center"/> | <img src="metadata/en-US/images/phoneScreenshots/app-light.png" width="500" align="center"/> |
 |:---:|:---:|
 
-### :first_quarter_moon_with_face: Dark Theme
+### :last_quarter_moon_with_face: Dark Theme
 
 | <img src="metadata/en-US/images/phoneScreenshots/home-dark.png" width="500" align="center"/> | <img src="metadata/en-US/images/phoneScreenshots/app-dark.png" width="500" align="center"/> |
 |:---:|:---:|

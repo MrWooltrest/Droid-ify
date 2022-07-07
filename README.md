@@ -89,6 +89,6 @@ You can always add other lanuages.
 
 ## :scroll: License
 
-Licensed GPLv3+. \
-Direct Adaptation/Modification of [Foxy-Droid](https://github.com/kitsunyan/foxy-droid/) \
+Licensed under [GPLv3+](/COPYING) \
+Direct Adaptation/Modification of [Foxy-Droid](https://github.com/kitsunyan/foxy-droid/). \
 Copyright © 2020–2022 [Iamlooker](https://github.com/Iamlooker) and [contributors](https://github.com/Iamlooker/Droid-ify/graphs/contributors).

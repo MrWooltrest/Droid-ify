@@ -81,13 +81,14 @@ Run `./gradlew assembleRelease` to build a release package or run `./gradlew ass
 
 All of these packages can be installed using the Android package manager.
 
-## :eye_speech_bubble: Translations
+## :eye_speech_bubble: Translations [<img align="right" src="https://hosted.weblate.org/widgets/droidify/-/localization/287x66-grey.png" alt="Translation status" />](https://hosted.weblate.org/engage/droidify/?utm_source=widget)
+
 [Translate Droid-ify on Hosted Weblate](https://hosted.weblate.org/engage/droidify/). \
 [![Translation status](https://hosted.weblate.org/widgets/droidify/-/multi-auto.svg)](https://hosted.weblate.org/engage/droidify/?utm_source=widget)
 
-You can always add other lanuages.
+### You can always add other lanuages
 
-## :scroll: License
+## :scroll: License [<img align="right" src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" alt="GPLv3" />](/COPYING)
 
 Licensed under [GPLv3+](/COPYING) \
 Direct Adaptation/Modification of [Foxy-Droid](https://github.com/kitsunyan/foxy-droid/). \

@@ -38,26 +38,22 @@ width="60%">](https://hosted.weblate.org/projects/droidify/localization/)
 * :rocket: Fast repository syncing
 * :jigsaw: Standard Android components and minimal dependencies
 
-### :framed_picture: Screenshots
+## :framed_picture: Screenshots
 
-<div align="center">
-
-## Light Theme
+### :sun_with_face: Light Theme
 
 | <img src="metadata/en-US/images/phoneScreenshots/home-light.png" width="500" align="center"/> | <img src="metadata/en-US/images/phoneScreenshots/app-light.png" width="500" align="center"/> |
 |:---:|:---:|
 
-## Dark Theme
+### :first_quarter_moon_with_face: Dark Theme
 
 | <img src="metadata/en-US/images/phoneScreenshots/home-dark.png" width="500" align="center"/> | <img src="metadata/en-US/images/phoneScreenshots/app-dark.png" width="500" align="center"/> |
 |:---:|:---:|
 
-## Black Theme
+### :new_moon_with_face: Black Theme
 
 | <img src="metadata/en-US/images/phoneScreenshots/home-amoled.png" width="500" align="center"/> | <img src="metadata/en-US/images/phoneScreenshots/app-amoled.png" width="500" align="center"/> |
 |:---:|:---:|
-
-<div align="left">
 
 ## :building_construction: Building from source
 

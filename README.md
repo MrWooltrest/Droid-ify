@@ -78,9 +78,6 @@ All of these packages can be installed using the Android package manager.
 
 [Translate Droid-ify on Hosted Weblate](https://hosted.weblate.org/engage/droidify/). \
 [![Translation status](https://hosted.weblate.org/widgets/droidify/-/multi-auto.svg)](https://hosted.weblate.org/engage/droidify/?utm_source=widget)
-[<img src = "https://hosted.weblate.org/widgets/droidify/-/open-graph.png"
-alt= "Translation State"
-width="58%" align="right">](https://hosted.weblate.org/projects/droidify/localization/)
 
 ### You can always add other lanuages
 

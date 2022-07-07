@@ -1,17 +1,16 @@
 <div align="center">
 
-<img width="" src="src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" alt="Droid-ify" align="center">
+<img width="" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" alt="Droid-ify" align="center">
 
 # Droid-ify
 
-A quick material F-Droid client.
+### A quick material F-Droid client 
 
-[![Github repo stars](https://img.shields.io/github/stars/Iamlooker/Droid-ify?style=flat)](https://github.com/Iamlooker/Droid-ify/stargazers)
-[![Github License](https://img.shields.io/github/license/Iamlooker/Droid-ify)](https://github.com/Iamlooker/Droid-ify/blob/master/COPYING)
-[![Github All Releases](https://img.shields.io/github/downloads/Iamlooker/Droid-ify/total.svg)](https://github.com/Iamlooker/Droid-ify/releases/)
-[![Github release](https://img.shields.io/github/v/release/Iamlooker/Droid-ify?display_name=tag)](https://github.com/Iamlooker/Droid-ify/releases/latest)
-[![Github watchers](https://img.shields.io/github/watchers/Iamlooker/Droid-ify?label=Watch)](https://github.com/Iamlooker/Droid-ify/watchers)
-[![Github forks](https://img.shields.io/github/forks/Iamlooker/Droid-ify?label=Fork)](https://github.com/Iamlooker/Droid-ify/network/members)
+[![GitHub repo stars](https://img.shields.io/github/stars/Iamlooker/Droid-ify?style=flat)](https://github.com/Iamlooker/Droid-ify/stargazers)
+[![GitHub License](https://img.shields.io/github/license/Iamlooker/Droid-ify)](https://github.com/Iamlooker/Droid-ify/blob/master/COPYING)
+[![GitHub All Releases](https://img.shields.io/github/downloads/Iamlooker/Droid-ify/total.svg)](https://github.com/Iamlooker/Droid-ify/releases/)
+[![GitHub release](https://img.shields.io/github/v/release/Iamlooker/Droid-ify?display_name=tag)](https://github.com/Iamlooker/Droid-ify/releases/latest)
+[![Small translation badge](https://hosted.weblate.org/widgets/droidify/-/localization/svg-badge.svg)](https://hosted.weblate.org/engage/droidify/?utm_source=widget) 
 
 [<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
 alt="Get it on IzzyDroid"

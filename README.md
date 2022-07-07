@@ -25,9 +25,6 @@ width="40%">](https://hosted.weblate.org/projects/droidify/localization/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"
 alt="Join Telegram Channel"
 width="30%">](https://t.me/droidify)
-[<img src = "https://hosted.weblate.org/widgets/droidify/-/open-graph.png"
-alt= "Translation State"
-width="60%">](https://hosted.weblate.org/projects/droidify/localization/)
 
 <div align="left">
 
@@ -81,6 +78,9 @@ All of these packages can be installed using the Android package manager.
 
 [Translate Droid-ify on Hosted Weblate](https://hosted.weblate.org/engage/droidify/). \
 [![Translation status](https://hosted.weblate.org/widgets/droidify/-/multi-auto.svg)](https://hosted.weblate.org/engage/droidify/?utm_source=widget)
+[<img src = "https://hosted.weblate.org/widgets/droidify/-/open-graph.png"
+alt= "Translation State"
+width="58%" align="right">](https://hosted.weblate.org/projects/droidify/localization/)
 
 ### You can always add other lanuages
 

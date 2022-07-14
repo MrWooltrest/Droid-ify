@@ -79,6 +79,6 @@ All of these packages can be installed using the Android package manager.
 
 ## :scroll: License [<img align="right" src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" alt="GPLv3" />](/COPYING)
 
-Licensed under [GPLv3+](/COPYING) \
+Licensed under [GPLv3+](/COPYING). \
 Direct Adaptation/Modification of [Foxy-Droid](https://github.com/kitsunyan/foxy-droid/). \
 Copyright © 2020–2022 [Iamlooker](https://github.com/Iamlooker) and [contributors](https://github.com/Iamlooker/Droid-ify/graphs/contributors).

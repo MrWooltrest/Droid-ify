@@ -28,21 +28,36 @@ width="60%">](https://hosted.weblate.org/projects/droidify/localization/)
 
 ## :book: Features
 
-* Material F-Droid style
-* No cards or inappropriate animations
-* Fast repository syncing
-* Standard Android components and minimal dependencies
+* :sparkles: Material F-Droid style
+* :flower_playing_cards: No cards or inappropriate animations
+* :rocket: Fast repository syncing
+* :jigsaw: Standard Android components and minimal dependencies
 
-### :camera: Screenshots
+## :framed_picture: Screenshots
 
-<img src="metadata/en-US/images/phoneScreenshots/home-light.png" width="48%" /><img src="metadata/en-US/images/phoneScreenshots/app-light.png" width="48%" /><img src="metadata/en-US/images/phoneScreenshots/home-dark.png" width="48%" /><img src="metadata/en-US/images/phoneScreenshots/app-dark.png" width="48%" /><img src="metadata/en-US/images/phoneScreenshots/home-amoled.png" width="48%" /><img src="metadata/en-US/images/phoneScreenshots/app-amoled.png" width="48%" />
+### :sun_with_face: Light Theme
 
-## :hammer: Building and Installing
+| <img src="metadata/en-US/images/phoneScreenshots/home-light.png" width="500" align="center"/> | <img src="metadata/en-US/images/phoneScreenshots/app-light.png" width="500" align="center"/> |
+|:---:|:---:|
+
+### :last_quarter_moon_with_face: Dark Theme
+
+| <img src="metadata/en-US/images/phoneScreenshots/home-dark.png" width="500" align="center"/> | <img src="metadata/en-US/images/phoneScreenshots/app-dark.png" width="500" align="center"/> |
+|:---:|:---:|
+
+### :new_moon_with_face: Black Theme
+
+| <img src="metadata/en-US/images/phoneScreenshots/home-amoled.png" width="500" align="center"/> | <img src="metadata/en-US/images/phoneScreenshots/app-amoled.png" width="500" align="center"/> |
+|:---:|:---:|
+
+## :building_construction: Building from source
 
 Specify your Android SDK path either using the `ANDROID_HOME` environment variable, \
 or by filling out the `sdk.dir` property in `local.properties`.
 
-Signing can be done automatically using `keystore.properties` as follows:
+### :pen: Signing
+
+Can be done automatically using `keystore.properties` as follows:
 
 ```properties
 store.file=/path/to/keystore
@@ -51,18 +66,19 @@ key.alias=key-alias
 key.password=key-password
 ```
 
-Run `./gradlew assembleRelease` to build the package, which can be installed using the Android
-package manager.
+### :bricks: Building
 
-## 👁️‍🗨️ Translations
+Run `./gradlew assembleRelease` to build a release package or run `./gradlew assembleDebug` if you want to build a debug APK.
+
+All of these packages can be installed using the Android package manager.
+
+## :eye_speech_bubble: Translations [<img align="right" src="https://hosted.weblate.org/widgets/droidify/-/localization/287x66-grey.png" alt="Translation status" />](https://hosted.weblate.org/engage/droidify/?utm_source=widget)
+
 [Translate Droid-ify on Hosted Weblate](https://hosted.weblate.org/engage/droidify/). \
 [![Translation status](https://hosted.weblate.org/widgets/droidify/-/multi-auto.svg)](https://hosted.weblate.org/engage/droidify/?utm_source=widget)
 
-You can always add other lanuages.
-  
+## :scroll: License [<img align="right" src="https://www.gnu.org/graphics/gplv3-with-text-136x68.png" alt="GPLv3" />](/COPYING)
 
-## :scroll: License
-
-Licensed GPLv3+. \
-Direct Adaptation/Modification of [Foxy-Droid](https://github.com/kitsunyan/foxy-droid/) \
-Copyright © 2020–2021 Iamlooker and contributors.
+Licensed under [GPLv3+](/COPYING) \
+Direct Adaptation/Modification of [Foxy-Droid](https://github.com/kitsunyan/foxy-droid/). \
+Copyright © 2020–2022 [Iamlooker](https://github.com/Iamlooker) and [contributors](https://github.com/Iamlooker/Droid-ify/graphs/contributors).

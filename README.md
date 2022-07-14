@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" alt="Droid-ify" align="center">
+<img width="17%" src="app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" alt="Droid-ify" align="center">
 
 # Droid-ify
 
